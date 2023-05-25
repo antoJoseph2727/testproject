@@ -36,3 +36,4 @@ printPattern(n);
 }  
 }
 well this is newly added in the code. 
+now a numbering is given in each line.
